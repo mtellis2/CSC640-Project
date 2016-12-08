@@ -1,0 +1,7 @@
+"id","userName","userFirstName","userLastName","userGender","userEmail","userPhoneNumber","userAddressLine1","userAddressLine2","userCity","userState","userZip","isPlayer","isCoach","isMgmt"
+"1","mfreeman0","Marilyn","Freeman","F","mfreeman0@typepad.com","621-103-6748","78 Coleman Trail","","Johnstown","PA","15906","true","false","true"
+"2","arobertson1","Arthur","Robertson","M","arobertson1@example.com","382-686-8218","35 Blaine Road","","San Jose","CA","95108","false","true","false"
+"3","ckelly2","Charles","Kelly","M","ckelly2@discuz.net","876-452-4235","6 Mallard Terrace","","Idaho Falls","ID","83405","false","false","true"
+"4","egibson3","Emily","Gibson","F","egibson3@example.com","333-211-7585","3169 Mariners Cove Plaza","Apt. 4709","Asheville","NC","28805","true","true","false"
+"5","jrobins2","","","F","","","","","","","","true","false","false"
+"6","wmjones3","","","","","","","","Greensboro","","","false","false","false"
